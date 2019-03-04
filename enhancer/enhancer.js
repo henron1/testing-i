@@ -5,15 +5,32 @@ module.exports = {
 }
 
 function success(item) {
-
-}
-
-function failure() {
-
-
-}
-
-function repair() {
+    const item = {
+        name, 
+        type,
+        durability,
+        enhancement,
+    }
 
     
+}
+
+function failure(item) {
+    const item = {
+        name, 
+        type,
+        durability,
+        enhancement,
+    }
+
+}
+
+function repair(item) {
+    const item = {
+        name, 
+        type,
+        durability,
+        enhancement,
+    }
+
 }
